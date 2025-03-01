@@ -1,0 +1,2 @@
+In the .env file enter required API credentials. 
+To run the project use " streamlit run main.py " in the terminal.
